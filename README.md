@@ -1,3 +1,7 @@
+**This is an extension of an already existing implementation of deep-k-means (link: https://github.com/MaziarMF/deep-k-means) that I modified in order to be compatible with the datasets: Classic3, Classic4 and BBC.**
+
+=========================================================================================
+
 **Deep k-Means: Jointly Clustering with k-Means and Learning Representations**
 ======
 
